@@ -1,0 +1,19 @@
+id,ref,title,roles,summary,applies_from,evidence
+ISO42001-4,4,Context of the organization,all,"Understand internal and external issues, interested parties; define the AI management system scope and your AI roles.",Voluntary (certifiable),Context and interested-party register; scope statement; AI role statement.
+ISO42001-5,5,Leadership,all,"Top management commitment, an AI policy, and assigned roles and responsibilities.",Voluntary (certifiable),Approved AI policy; RACI; management communications.
+ISO42001-6-1,6.1,Actions to address risks and opportunities,all,"Plan AI risk assessment, AI risk treatment (with a Statement of Applicability against Annex A) and AI system impact assessment.",Voluntary (certifiable),Risk criteria; risk assessment; Statement of Applicability; impact assessments.
+ISO42001-6-2,6.2,AI objectives,all,Set measurable AI objectives and plans to achieve them.,Voluntary (certifiable),Objectives with targets and owners.
+ISO42001-6-3,6.3,Planning of changes,all,Plan changes to the management system in a controlled way.,Voluntary (certifiable),Change records.
+ISO42001-7,7,Support,all,"Resources, competence, awareness, communication and documented information.",Voluntary (certifiable),Competence records; awareness training; document control.
+ISO42001-8,8,Operation,all,"Operate planned processes; perform AI risk assessments, risk treatment and impact assessments at planned intervals and on change.",Voluntary (certifiable),Operational records; updated assessments; treatment status.
+ISO42001-9,9,Performance evaluation,all,"Monitoring and measurement, internal audit and management review.",Voluntary (certifiable),Metrics; audit program and reports; review minutes.
+ISO42001-10,10,Improvement,all,"Continual improvement, nonconformity and corrective action.",Voluntary (certifiable),Corrective action records; improvement log.
+ISO42001-A-2,A.2,Policies related to AI (Annex A area),all,Controls on documenting and reviewing AI policy and its alignment with other policies.,Voluntary (certifiable),AI policy; review records.
+ISO42001-A-3,A.3,Internal organization (Annex A area),all,"Controls on roles, responsibilities and reporting of concerns.",Voluntary (certifiable),Role definitions; concern reporting process.
+ISO42001-A-4,A.4,Resources for AI systems (Annex A area),all,"Controls on documenting data, tooling, system, computing and human resources.",Voluntary (certifiable),Resource inventories.
+ISO42001-A-5,A.5,Assessing impacts of AI systems (Annex A area),all,"Controls on impact assessment process and documentation for individuals, groups and society.",Voluntary (certifiable),Impact assessment procedure and results.
+ISO42001-A-6,A.6,AI system life cycle (Annex A area),all,"Controls on objectives for responsible development, design, verification, deployment, operation, monitoring and technical documentation.",Voluntary (certifiable),Life cycle procedures; verification and validation records; technical documentation.
+ISO42001-A-7,A.7,Data for AI systems (Annex A area),all,"Controls on data acquisition, quality, provenance and preparation.",Voluntary (certifiable),Data sheets; data quality and provenance records.
+ISO42001-A-8,A.8,Information for interested parties (Annex A area),all,"Controls on system documentation for users, external reporting and incident communication.",Voluntary (certifiable),User information; incident communication records.
+ISO42001-A-9,A.9,Use of AI systems (Annex A area),all,Controls on processes and objectives for responsible use and intended use.,Voluntary (certifiable),Use procedures; acceptable use policy.
+ISO42001-A-10,A.10,Third-party and customer relationships (Annex A area),all,Controls on allocating responsibilities and managing suppliers and customers.,Voluntary (certifiable),Contracts; supplier assessments.
